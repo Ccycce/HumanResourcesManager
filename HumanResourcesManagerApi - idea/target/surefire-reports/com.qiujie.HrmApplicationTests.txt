@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.qiujie.HrmApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 36, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 9.876 s <<< FAILURE! - in com.qiujie.HrmApplicationTests
+test26  Time elapsed: 0.011 s  <<< ERROR!
+java.io.FileNotFoundException: C:\Users\asus\Desktop\员工考勤表.xlsx (系统找不到指定的路径。)
+	at com.qiujie.HrmApplicationTests.test26(HrmApplicationTests.java:284)
+
+test40  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalArgumentException
+	at com.qiujie.HrmApplicationTests.test40(HrmApplicationTests.java:462)
+
